@@ -1,1 +1,7 @@
-mio\training\patterns\patternpatternExamples\App.class
+javapatterns\examples\factoryMethodPattern\GenerateBill.class
+javapatterns\examples\factoryMethodPattern\DomesticPlan.class
+javapatterns\examples\abstractFactoryPattern\Bank.class
+javapatterns\examples\factoryMethodPattern\GetPlanFactory.class
+javapatterns\examples\factoryMethodPattern\CommercialPlan.class
+javapatterns\examples\factoryMethodPattern\Plan.class
+javapatterns\examples\factoryMethodPattern\InstitutionalPlan.class
