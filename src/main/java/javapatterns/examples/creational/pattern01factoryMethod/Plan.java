@@ -1,4 +1,4 @@
-package javapatterns.examples.factoryMethodPattern;
+package javapatterns.examples.creational.pattern01factoryMethod;
 
 public abstract class Plan {
 	protected double rate;

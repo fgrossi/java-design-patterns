@@ -1,4 +1,4 @@
-package javapatterns.examples.factoryMethodPattern;
+package javapatterns.examples.creational.pattern01factoryMethod;
 
 public class GetPlanFactory {
 	// use getPlan method to get object of type Plan

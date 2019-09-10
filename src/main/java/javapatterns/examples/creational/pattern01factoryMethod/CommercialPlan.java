@@ -1,4 +1,4 @@
-package javapatterns.examples.factoryMethodPattern;
+package javapatterns.examples.creational.pattern01factoryMethod;
 
 public class CommercialPlan extends Plan {
 
